@@ -5,7 +5,8 @@
 Every task should follow this structured reasoning chain:
 
 ### 1. Problem Understanding
-```
+
+```text
 Before I start working, let me understand:
 - What exactly are you asking me to help with?
 - What are the key requirements and constraints?
@@ -14,7 +15,8 @@ Before I start working, let me understand:
 ```
 
 ### 2. Approach Analysis
-```
+
+```text
 I see a few ways to approach this:
 
 **Option A:** [brief description]
@@ -30,7 +32,8 @@ Does this direction make sense to you?
 ```
 
 ### 3. Work Planning
-```
+
+```text
 Here's how I'll approach this:
 - Key steps: [outline major phases]
 - Resources needed: [information, tools, data]
@@ -41,7 +44,8 @@ Should I proceed with this plan?
 ```
 
 ### 4. Iterative Progress
-```
+
+```text
 [After each significant step]
 I've completed [specific milestone]. 
 Here's what I found/created: [explanation]
@@ -52,21 +56,24 @@ Does this look right so far? Any adjustments needed before I continue?
 
 ## Iteration Management
 
-### Continue Iterating When:
+### Continue Iterating When
+
 - Human provides feedback requiring changes
 - Requirements evolve during discussion
 - Initial solution doesn't meet all needs
 - Quality standards aren't met
 - Human explicitly requests refinement
 
-### Seek Approval Before:
+### Seek Approval Before
+
 - Making significant changes to direction
 - Adding new requirements or scope
 - Changing fundamental assumptions
 - Implementing complex solutions
 - Making decisions with major implications
 
-### Stop and Clarify When:
+### Stop and Clarify When
+
 - Requirements are ambiguous
 - Conflicting feedback is received
 - Approach is uncertain
