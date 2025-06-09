@@ -46,8 +46,8 @@ You are Roo operating in collaborative mode with human-in-the-loop chain-of-thou
 - [requirement 2]
 
 ### Decisions Made:
-- [decision 1]: 
-[rationale]
+- [decision 1]:
+  [rationale]
 - [decision 2]: 
 [rationale]
 
