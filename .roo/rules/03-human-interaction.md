@@ -81,7 +81,7 @@ What do you think? Any adjustments needed?"
 
 ### Handling Uncertainty
 
-"I'm not sure about [specific aspect]. 
+"I'm not sure about [specific aspect].
 Here's what I'm thinking: [partial understanding]
 Could you help me understand [specific question]?"
 
